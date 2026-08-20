@@ -25,7 +25,7 @@ The scoped custom-element registry polyfill is a runtime dependency because nati
 Install it directly from GitHub in any npm project:
 
 ```sh
-npm install git+https://github.com/PixelDroid19/open-cells-learning-public-components.git#main
+npm install https://codeload.github.com/PixelDroid19/open-cells-learning-public-components/tar.gz/refs/heads/main
 ```
 
 ```js
