@@ -1,0 +1,426 @@
+{
+  "ambient-default": {
+    "label": "Ambient Default",
+    "action": "Continue"
+  },
+  "badge-default": {
+    "label": "Badge Default",
+    "action": "Continue"
+  },
+  "badge-feedback": {
+    "label": "Badge Feedback",
+    "action": "Continue"
+  },
+  "badge-icon": {
+    "label": "Badge Icon",
+    "action": "Continue"
+  },
+  "badge-notification": {
+    "label": "Badge Notification",
+    "action": "Continue"
+  },
+  "badge-reference": {
+    "label": "Badge Reference",
+    "action": "Continue"
+  },
+  "badge-variability": {
+    "label": "Badge Variability",
+    "action": "Continue"
+  },
+  "banner-image": {
+    "label": "Banner Image",
+    "action": "Continue"
+  },
+  "button-action": {
+    "label": "Button Action",
+    "action": "Continue"
+  },
+  "button-default": {
+    "label": "Button Default",
+    "action": "Continue"
+  },
+  "button-group": {
+    "label": "Button Group",
+    "action": "Continue"
+  },
+  "button-progress": {
+    "label": "Button Progress",
+    "action": "Continue"
+  },
+  "button-row": {
+    "label": "Button Row",
+    "action": "Continue"
+  },
+  "button-share": {
+    "label": "Button Share",
+    "action": "Continue"
+  },
+  "button-tpv-pad": {
+    "label": "Button Tpv Pad",
+    "action": "Continue"
+  },
+  "button-videocall": {
+    "label": "Button Videocall",
+    "action": "Continue"
+  },
+  "carousel-default": {
+    "label": "Carousel Default",
+    "action": "Continue"
+  },
+  "chat-bot": {
+    "label": "Chat Bot",
+    "action": "Continue"
+  },
+  "chat-button": {
+    "label": "Chat Button",
+    "action": "Continue"
+  },
+  "chat-container": {
+    "label": "Chat Container",
+    "action": "Continue"
+  },
+  "chat-form": {
+    "label": "Chat Form",
+    "action": "Continue"
+  },
+  "clip-bot": {
+    "label": "Clip Bot",
+    "action": "Continue"
+  },
+  "clip-box": {
+    "label": "Clip Box",
+    "action": "Continue"
+  },
+  "clip-card": {
+    "label": "Clip Card",
+    "action": "Continue"
+  },
+  "clip-card-data": {
+    "label": "Clip Card Data",
+    "action": "Continue"
+  },
+  "clip-flag": {
+    "label": "Clip Flag",
+    "action": "Continue"
+  },
+  "clip-microillustration": {
+    "label": "Clip Microillustration",
+    "action": "Continue"
+  },
+  "component-configuration-mixin": {
+    "label": "Component Configuration Mixin",
+    "action": "Continue"
+  },
+  "data-visualization-bar": {
+    "label": "Data Visualization Bar",
+    "action": "Continue"
+  },
+  "data-visualization-donut": {
+    "label": "Data Visualization Donut",
+    "action": "Continue"
+  },
+  "data-visualization-linear": {
+    "label": "Data Visualization Linear",
+    "action": "Continue"
+  },
+  "data-visualization-maps": {
+    "label": "Data Visualization Maps",
+    "action": "Continue"
+  },
+  "disable-mixin": {
+    "label": "Disable Mixin",
+    "action": "Continue"
+  },
+  "divider-default": {
+    "label": "Divider Default",
+    "action": "Continue"
+  },
+  "draggable-default": {
+    "label": "Draggable Default",
+    "action": "Continue"
+  },
+  "expandable-accordion": {
+    "label": "Expandable Accordion",
+    "action": "Continue"
+  },
+  "expandable-multistep": {
+    "label": "Expandable Multistep",
+    "action": "Continue"
+  },
+  "expandable-multistep-index": {
+    "label": "Expandable Multistep Index",
+    "action": "Continue"
+  },
+  "expandable-panel": {
+    "label": "Expandable Panel",
+    "action": "Continue"
+  },
+  "form-calendar": {
+    "label": "Form Calendar",
+    "action": "Continue"
+  },
+  "form-checkbox": {
+    "label": "Form Checkbox",
+    "action": "Continue"
+  },
+  "form-container": {
+    "label": "Form Container",
+    "action": "Continue"
+  },
+  "form-date-range": {
+    "label": "Form Date Range",
+    "action": "Continue"
+  },
+  "form-filter": {
+    "label": "Form Filter",
+    "action": "Continue"
+  },
+  "form-input": {
+    "label": "Form Input",
+    "action": "Continue"
+  },
+  "form-multiselect": {
+    "label": "Form Multiselect",
+    "action": "Continue"
+  },
+  "form-predictive": {
+    "label": "Form Predictive",
+    "action": "Continue"
+  },
+  "form-radio-button": {
+    "label": "Form Radio Button",
+    "action": "Continue"
+  },
+  "form-range": {
+    "label": "Form Range",
+    "action": "Continue"
+  },
+  "form-rating": {
+    "label": "Form Rating",
+    "action": "Continue"
+  },
+  "form-scanner": {
+    "label": "Form Scanner",
+    "action": "Continue"
+  },
+  "form-scratch": {
+    "label": "Form Scratch",
+    "action": "Continue"
+  },
+  "form-select": {
+    "label": "Form Select",
+    "action": "Continue"
+  },
+  "form-select-filter": {
+    "label": "Form Select Filter",
+    "action": "Continue"
+  },
+  "form-sign": {
+    "label": "Form Sign",
+    "action": "Continue"
+  },
+  "form-toggle": {
+    "label": "Form Toggle",
+    "action": "Continue"
+  },
+  "form-uploader": {
+    "label": "Form Uploader",
+    "action": "Continue"
+  },
+  "form-verification": {
+    "label": "Form Verification",
+    "action": "Continue"
+  },
+  "header-category": {
+    "label": "Header Category",
+    "action": "Continue"
+  },
+  "header-main": {
+    "label": "Header Main",
+    "action": "Continue"
+  },
+  "header-navigation": {
+    "label": "Header Navigation",
+    "action": "Continue"
+  },
+  "header-public": {
+    "label": "Header Public",
+    "action": "Continue"
+  },
+  "help-modal": {
+    "label": "Help Modal",
+    "action": "Continue"
+  },
+  "help-onboarding": {
+    "label": "Help Onboarding",
+    "action": "Continue"
+  },
+  "help-tooltip": {
+    "label": "Help Tooltip",
+    "action": "Continue"
+  },
+  "list-budget": {
+    "label": "List Budget",
+    "action": "Continue"
+  },
+  "list-bullet": {
+    "label": "List Bullet",
+    "action": "Continue"
+  },
+  "list-swipe": {
+    "label": "List Swipe",
+    "action": "Continue"
+  },
+  "map-dynamic": {
+    "label": "Map Dynamic",
+    "action": "Continue"
+  },
+  "map-static": {
+    "label": "Map Static",
+    "action": "Continue"
+  },
+  "navigation-menu": {
+    "label": "Navigation Menu",
+    "action": "Continue"
+  },
+  "navigation-tab-bar": {
+    "label": "Navigation Tab Bar",
+    "action": "Continue"
+  },
+  "notification-contextual": {
+    "label": "Notification Contextual",
+    "action": "Continue"
+  },
+  "notification-help": {
+    "label": "Notification Help",
+    "action": "Continue"
+  },
+  "notification-message": {
+    "label": "Notification Message",
+    "action": "Continue"
+  },
+  "notification-status": {
+    "label": "Notification Status",
+    "action": "Continue"
+  },
+  "notification-toast": {
+    "label": "Notification Toast",
+    "action": "Continue"
+  },
+  "panel-audio-player": {
+    "label": "Panel Audio Player",
+    "action": "Continue"
+  },
+  "panel-code-number": {
+    "label": "Panel Code Number",
+    "action": "Continue"
+  },
+  "panel-comparative": {
+    "label": "Panel Comparative",
+    "action": "Continue"
+  },
+  "panel-container": {
+    "label": "Panel Container",
+    "action": "Continue"
+  },
+  "panel-iframe": {
+    "label": "Panel Iframe",
+    "action": "Continue"
+  },
+  "panel-photo": {
+    "label": "Panel Photo",
+    "action": "Continue"
+  },
+  "panel-risk": {
+    "label": "Panel Risk",
+    "action": "Continue"
+  },
+  "panel-side": {
+    "label": "Panel Side",
+    "action": "Continue"
+  },
+  "progress-content": {
+    "label": "Progress Content",
+    "action": "Continue"
+  },
+  "progress-step": {
+    "label": "Progress Step",
+    "action": "Continue"
+  },
+  "progress-stepped-process": {
+    "label": "Progress Stepped Process",
+    "action": "Continue"
+  },
+  "progress-timer": {
+    "label": "Progress Timer",
+    "action": "Continue"
+  },
+  "progress-vertical-step": {
+    "label": "Progress Vertical Step",
+    "action": "Continue"
+  },
+  "skeleton-default": {
+    "label": "Skeleton Default",
+    "action": "Continue"
+  },
+  "tab-default": {
+    "label": "Tab Default",
+    "action": "Continue"
+  },
+  "table-body": {
+    "label": "Table Body",
+    "action": "Continue"
+  },
+  "table-default": {
+    "label": "Table Default",
+    "action": "Continue"
+  },
+  "table-filter": {
+    "label": "Table Filter",
+    "action": "Continue"
+  },
+  "table-footer": {
+    "label": "Table Footer",
+    "action": "Continue"
+  },
+  "table-header": {
+    "label": "Table Header",
+    "action": "Continue"
+  },
+  "table-row-group": {
+    "label": "Table Row Group",
+    "action": "Continue"
+  },
+  "transition-container": {
+    "label": "Transition Container",
+    "action": "Continue"
+  },
+  "type-amount": {
+    "label": "Type Amount",
+    "action": "Continue"
+  },
+  "type-date": {
+    "label": "Type Date",
+    "action": "Continue"
+  },
+  "type-icon": {
+    "label": "Type Icon",
+    "action": "Continue"
+  },
+  "type-link": {
+    "label": "Type Link",
+    "action": "Continue"
+  },
+  "type-text": {
+    "label": "Type Text",
+    "action": "Continue"
+  },
+  "widget-configuration-mixin": {
+    "label": "Widget Configuration Mixin",
+    "action": "Continue"
+  },
+  "widget-defaults-mixin": {
+    "label": "Widget Defaults Mixin",
+    "action": "Continue"
+  }
+}

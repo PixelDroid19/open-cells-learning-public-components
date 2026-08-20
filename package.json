@@ -1,0 +1,54 @@
+{
+  "name": "@open-cells-learning/public-components",
+  "version": "0.1.0",
+  "description": "Public neutral Cells learning components with Lit, scoped elements, WidgetMixin, i18n and events.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelDroid19/open-cells-learning-public-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PixelDroid19/open-cells-learning-public-components/issues"
+  },
+  "type": "module",
+  "sideEffects": [
+    "src/components/*-define.js"
+  ],
+  "files": [
+    "catalog.json",
+    "src",
+    "locales",
+    "demo",
+    "scripts",
+    "index.html",
+    "README.md",
+    "test/catalog.test.js",
+    "test/unit",
+    "custom-elements.json",
+    "vite.config.js"
+  ],
+  "exports": {
+    ".": "./src/index.js",
+    "./catalog.json": "./catalog.json",
+    "./locales/*": "./locales/*",
+    "./components/*": "./src/components/*"
+  },
+  "scripts": {
+    "dev": "cells component:dev",
+    "build": "cells component:build:demo",
+    "test": "cells component:test && node --test test/catalog.test.js",
+    "locales": "cells component:locales",
+    "documentation": "cells component:documentation && node scripts/normalize-docs.mjs"
+  },
+  "dependencies": {
+    "@open-wc/scoped-elements": "^3.0.10",
+    "@webcomponents/scoped-custom-element-registry": "0.0.10",
+    "lit": "^3.3.3"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "3.2.4",
+    "happy-dom": "20.11.2",
+    "vite": "7.3.6",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "ambient-default": {
+    "label": "Componente Ambient Default",
+    "action": "Continuar"
+  },
+  "badge-default": {
+    "label": "Componente Badge Default",
+    "action": "Continuar"
+  },
+  "badge-feedback": {
+    "label": "Componente Badge Feedback",
+    "action": "Continuar"
+  },
+  "badge-icon": {
+    "label": "Componente Badge Icon",
+    "action": "Continuar"
+  },
+  "badge-notification": {
+    "label": "Componente Badge Notification",
+    "action": "Continuar"
+  },
+  "badge-reference": {
+    "label": "Componente Badge Reference",
+    "action": "Continuar"
+  },
+  "badge-variability": {
+    "label": "Componente Badge Variability",
+    "action": "Continuar"
+  },
+  "banner-image": {
+    "label": "Componente Banner Image",
+    "action": "Continuar"
+  },
+  "button-action": {
+    "label": "Componente Button Action",
+    "action": "Continuar"
+  },
+  "button-default": {
+    "label": "Componente Button Default",
+    "action": "Continuar"
+  },
+  "button-group": {
+    "label": "Componente Button Group",
+    "action": "Continuar"
+  },
+  "button-progress": {
+    "label": "Componente Button Progress",
+    "action": "Continuar"
+  },
+  "button-row": {
+    "label": "Componente Button Row",
+    "action": "Continuar"
+  },
+  "button-share": {
+    "label": "Componente Button Share",
+    "action": "Continuar"
+  },
+  "button-tpv-pad": {
+    "label": "Componente Button Tpv Pad",
+    "action": "Continuar"
+  },
+  "button-videocall": {
+    "label": "Componente Button Videocall",
+    "action": "Continuar"
+  },
+  "carousel-default": {
+    "label": "Componente Carousel Default",
+    "action": "Continuar"
+  },
+  "chat-bot": {
+    "label": "Componente Chat Bot",
+    "action": "Continuar"
+  },
+  "chat-button": {
+    "label": "Componente Chat Button",
+    "action": "Continuar"
+  },
+  "chat-container": {
+    "label": "Componente Chat Container",
+    "action": "Continuar"
+  },
+  "chat-form": {
+    "label": "Componente Chat Form",
+    "action": "Continuar"
+  },
+  "clip-bot": {
+    "label": "Componente Clip Bot",
+    "action": "Continuar"
+  },
+  "clip-box": {
+    "label": "Componente Clip Box",
+    "action": "Continuar"
+  },
+  "clip-card": {
+    "label": "Componente Clip Card",
+    "action": "Continuar"
+  },
+  "clip-card-data": {
+    "label": "Componente Clip Card Data",
+    "action": "Continuar"
+  },
+  "clip-flag": {
+    "label": "Componente Clip Flag",
+    "action": "Continuar"
+  },
+  "clip-microillustration": {
+    "label": "Componente Clip Microillustration",
+    "action": "Continuar"
+  },
+  "component-configuration-mixin": {
+    "label": "Componente Component Configuration Mixin",
+    "action": "Continuar"
+  },
+  "data-visualization-bar": {
+    "label": "Componente Data Visualization Bar",
+    "action": "Continuar"
+  },
+  "data-visualization-donut": {
+    "label": "Componente Data Visualization Donut",
+    "action": "Continuar"
+  },
+  "data-visualization-linear": {
+    "label": "Componente Data Visualization Linear",
+    "action": "Continuar"
+  },
+  "data-visualization-maps": {
+    "label": "Componente Data Visualization Maps",
+    "action": "Continuar"
+  },
+  "disable-mixin": {
+    "label": "Componente Disable Mixin",
+    "action": "Continuar"
+  },
+  "divider-default": {
+    "label": "Componente Divider Default",
+    "action": "Continuar"
+  },
+  "draggable-default": {
+    "label": "Componente Draggable Default",
+    "action": "Continuar"
+  },
+  "expandable-accordion": {
+    "label": "Componente Expandable Accordion",
+    "action": "Continuar"
+  },
+  "expandable-multistep": {
+    "label": "Componente Expandable Multistep",
+    "action": "Continuar"
+  },
+  "expandable-multistep-index": {
+    "label": "Componente Expandable Multistep Index",
+    "action": "Continuar"
+  },
+  "expandable-panel": {
+    "label": "Componente Expandable Panel",
+    "action": "Continuar"
+  },
+  "form-calendar": {
+    "label": "Componente Form Calendar",
+    "action": "Continuar"
+  },
+  "form-checkbox": {
+    "label": "Componente Form Checkbox",
+    "action": "Continuar"
+  },
+  "form-container": {
+    "label": "Componente Form Container",
+    "action": "Continuar"
+  },
+  "form-date-range": {
+    "label": "Componente Form Date Range",
+    "action": "Continuar"
+  },
+  "form-filter": {
+    "label": "Componente Form Filter",
+    "action": "Continuar"
+  },
+  "form-input": {
+    "label": "Componente Form Input",
+    "action": "Continuar"
+  },
+  "form-multiselect": {
+    "label": "Componente Form Multiselect",
+    "action": "Continuar"
+  },
+  "form-predictive": {
+    "label": "Componente Form Predictive",
+    "action": "Continuar"
+  },
+  "form-radio-button": {
+    "label": "Componente Form Radio Button",
+    "action": "Continuar"
+  },
+  "form-range": {
+    "label": "Componente Form Range",
+    "action": "Continuar"
+  },
+  "form-rating": {
+    "label": "Componente Form Rating",
+    "action": "Continuar"
+  },
+  "form-scanner": {
+    "label": "Componente Form Scanner",
+    "action": "Continuar"
+  },
+  "form-scratch": {
+    "label": "Componente Form Scratch",
+    "action": "Continuar"
+  },
+  "form-select": {
+    "label": "Componente Form Select",
+    "action": "Continuar"
+  },
+  "form-select-filter": {
+    "label": "Componente Form Select Filter",
+    "action": "Continuar"
+  },
+  "form-sign": {
+    "label": "Componente Form Sign",
+    "action": "Continuar"
+  },
+  "form-toggle": {
+    "label": "Componente Form Toggle",
+    "action": "Continuar"
+  },
+  "form-uploader": {
+    "label": "Componente Form Uploader",
+    "action": "Continuar"
+  },
+  "form-verification": {
+    "label": "Componente Form Verification",
+    "action": "Continuar"
+  },
+  "header-category": {
+    "label": "Componente Header Category",
+    "action": "Continuar"
+  },
+  "header-main": {
+    "label": "Componente Header Main",
+    "action": "Continuar"
+  },
+  "header-navigation": {
+    "label": "Componente Header Navigation",
+    "action": "Continuar"
+  },
+  "header-public": {
+    "label": "Componente Header Public",
+    "action": "Continuar"
+  },
+  "help-modal": {
+    "label": "Componente Help Modal",
+    "action": "Continuar"
+  },
+  "help-onboarding": {
+    "label": "Componente Help Onboarding",
+    "action": "Continuar"
+  },
+  "help-tooltip": {
+    "label": "Componente Help Tooltip",
+    "action": "Continuar"
+  },
+  "list-budget": {
+    "label": "Componente List Budget",
+    "action": "Continuar"
+  },
+  "list-bullet": {
+    "label": "Componente List Bullet",
+    "action": "Continuar"
+  },
+  "list-swipe": {
+    "label": "Componente List Swipe",
+    "action": "Continuar"
+  },
+  "map-dynamic": {
+    "label": "Componente Map Dynamic",
+    "action": "Continuar"
+  },
+  "map-static": {
+    "label": "Componente Map Static",
+    "action": "Continuar"
+  },
+  "navigation-menu": {
+    "label": "Componente Navigation Menu",
+    "action": "Continuar"
+  },
+  "navigation-tab-bar": {
+    "label": "Componente Navigation Tab Bar",
+    "action": "Continuar"
+  },
+  "notification-contextual": {
+    "label": "Componente Notification Contextual",
+    "action": "Continuar"
+  },
+  "notification-help": {
+    "label": "Componente Notification Help",
+    "action": "Continuar"
+  },
+  "notification-message": {
+    "label": "Componente Notification Message",
+    "action": "Continuar"
+  },
+  "notification-status": {
+    "label": "Componente Notification Status",
+    "action": "Continuar"
+  },
+  "notification-toast": {
+    "label": "Componente Notification Toast",
+    "action": "Continuar"
+  },
+  "panel-audio-player": {
+    "label": "Componente Panel Audio Player",
+    "action": "Continuar"
+  },
+  "panel-code-number": {
+    "label": "Componente Panel Code Number",
+    "action": "Continuar"
+  },
+  "panel-comparative": {
+    "label": "Componente Panel Comparative",
+    "action": "Continuar"
+  },
+  "panel-container": {
+    "label": "Componente Panel Container",
+    "action": "Continuar"
+  },
+  "panel-iframe": {
+    "label": "Componente Panel Iframe",
+    "action": "Continuar"
+  },
+  "panel-photo": {
+    "label": "Componente Panel Photo",
+    "action": "Continuar"
+  },
+  "panel-risk": {
+    "label": "Componente Panel Risk",
+    "action": "Continuar"
+  },
+  "panel-side": {
+    "label": "Componente Panel Side",
+    "action": "Continuar"
+  },
+  "progress-content": {
+    "label": "Componente Progress Content",
+    "action": "Continuar"
+  },
+  "progress-step": {
+    "label": "Componente Progress Step",
+    "action": "Continuar"
+  },
+  "progress-stepped-process": {
+    "label": "Componente Progress Stepped Process",
+    "action": "Continuar"
+  },
+  "progress-timer": {
+    "label": "Componente Progress Timer",
+    "action": "Continuar"
+  },
+  "progress-vertical-step": {
+    "label": "Componente Progress Vertical Step",
+    "action": "Continuar"
+  },
+  "skeleton-default": {
+    "label": "Componente Skeleton Default",
+    "action": "Continuar"
+  },
+  "tab-default": {
+    "label": "Componente Tab Default",
+    "action": "Continuar"
+  },
+  "table-body": {
+    "label": "Componente Table Body",
+    "action": "Continuar"
+  },
+  "table-default": {
+    "label": "Componente Table Default",
+    "action": "Continuar"
+  },
+  "table-filter": {
+    "label": "Componente Table Filter",
+    "action": "Continuar"
+  },
+  "table-footer": {
+    "label": "Componente Table Footer",
+    "action": "Continuar"
+  },
+  "table-header": {
+    "label": "Componente Table Header",
+    "action": "Continuar"
+  },
+  "table-row-group": {
+    "label": "Componente Table Row Group",
+    "action": "Continuar"
+  },
+  "transition-container": {
+    "label": "Componente Transition Container",
+    "action": "Continuar"
+  },
+  "type-amount": {
+    "label": "Componente Type Amount",
+    "action": "Continuar"
+  },
+  "type-date": {
+    "label": "Componente Type Date",
+    "action": "Continuar"
+  },
+  "type-icon": {
+    "label": "Componente Type Icon",
+    "action": "Continuar"
+  },
+  "type-link": {
+    "label": "Componente Type Link",
+    "action": "Continuar"
+  },
+  "type-text": {
+    "label": "Componente Type Text",
+    "action": "Continuar"
+  },
+  "widget-configuration-mixin": {
+    "label": "Componente Widget Configuration Mixin",
+    "action": "Continuar"
+  },
+  "widget-defaults-mixin": {
+    "label": "Componente Widget Defaults Mixin",
+    "action": "Continuar"
+  }
+}
